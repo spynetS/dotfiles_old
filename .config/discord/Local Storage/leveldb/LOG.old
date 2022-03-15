@@ -1,0 +1,5 @@
+2022/03/14-19:19:25.897 651 Creating DB /home/spy/.config/discord/Local Storage/leveldb since it was missing.
+2022/03/14-19:19:25.901 651 Reusing MANIFEST /home/spy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/03/14-19:21:21.209 64f Level-0 table #5: started
+2022/03/14-19:21:21.215 64f Level-0 table #5: 342432 bytes OK
+2022/03/14-19:21:21.216 64f Delete type=0 #3
