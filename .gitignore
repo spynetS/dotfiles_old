@@ -44,3 +44,4 @@ programs
 .config/pcmanfm/default
 .config/ranger
 .xsession-errors.old
+dev/python/pysnake
