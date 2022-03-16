@@ -39,3 +39,8 @@ programs
 .zhistory
 .xsession-errors
 .config/pulse
+.config/bashtop
+.config/dmenu-recent
+.config/pcmanfm/default
+.config/ranger
+.xsession-errors.old
