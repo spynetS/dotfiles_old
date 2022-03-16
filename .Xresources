@@ -1,12 +1,25 @@
-URxvt.perl-ext-common:            default,matcher,tabbed,font-size
-#URxvt.perl-ext-common:  ...,resize-font,...
+urxvt.perl-ext-common: default,tabbed,matcher,resize-font,-tabbed
+urxvt.font: xft:Inconsolata:pixelsize=12
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-plus:      resize-font:bigger
+URxvt.keysym.C-equal:     resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+
+Xft*dpi: 82
+Xft*antialias:  true
+Xft*hinting:    true
+Xft*rgba:       rgb
+Xft*autohint:   false
+Xft*hintstyle:  hintfull
+Xft*lcdfilter:  lcddefault
+
 Xft.dpi:       96
 Xft.antialias: true
 Xft.hinting:   true
 Xft.rgba:      rgb
 Xft.autohint:  false
 Xft.hintstyle: hintslight
-Xft.lcdfilter: lcddefault
+!Xft.lcdfilter: lcddefault
 
 XTerm*background:        #222D31
 XTerm*foreground:        #d8d8d8
